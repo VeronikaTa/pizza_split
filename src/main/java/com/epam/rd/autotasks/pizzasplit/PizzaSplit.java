@@ -27,8 +27,5 @@ public class PizzaSplit {
 
         System.out.println(numberPizzas);
 
-
-
-
     }
 }
