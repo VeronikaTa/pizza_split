@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.pizzasplit;
+package com.epam.training.student_veronika_tarasova.pizza_split.src.main.java.com.epam.rd.autotasks.pizzasplit;
 
 import java.util.Scanner;
 
